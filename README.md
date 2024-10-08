@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Test Project</b>
-  - [TEST](https://github.com/mitch-meredith)
+- <b>[Implementing SIEM on Home Network](https://github.com/Mitch-Meredith/SIEM-Home-Network)</b>
  
 <h2>✅ Certifications:</h2>    
 
